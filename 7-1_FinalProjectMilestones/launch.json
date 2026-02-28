@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug CS330 Project",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "/Users/Girlfriend/Documents/CS 330/CS330Content/Projects/7-1_FinalProjectMilestones/main",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "/Users/Girlfriend/Documents/CS 330/CS330Content/Projects/7-1_FinalProjectMilestones",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "lldb",
+            "preLaunchTask": "Build CS330 Project"
+        }
+    ]
+}

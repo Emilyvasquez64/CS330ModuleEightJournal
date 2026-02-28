@@ -1,2 +1,17 @@
-# CS330ModuleEightJournal
+# CS330 Module Eight Journal
 Portfolio Submission
+
+<img width="1430" height="1210" alt="image" src="https://github.com/user-attachments/assets/e2829460-0b94-4197-b1cb-afc6d07f7418" />
+
+**1. How do I approach designing software?** <br>
+* My approach to software design is breaking things down before building them up, and working on this project really reinforced that. One of the biggest design skills I developed was learning how to look at something complicated and figure out what simple shapes it is actually made of. The pot in my image seemed like a simple stack of cylinders, yet its took multiple iterations and going back and forth between a tapered cylinder and stacking two sized cylinders. The napkin holder was probably my favorite part, I embedded a half cylinder inside a square and it just worked. That kind of creative problem solving. 
+My process was pretty iterative. I would plan what the scene needed, try to build it, notice what looked off, and then adjust. Textures were a good example of this. The wood grain on the arched panel is actually the same image used twice, with one version rotated so the grain direction stays consistent across the whole piece. I would not have thought to do that until I actually ran into the problem. That see it and fix it loop is exactly how I want to approach UI and system design going forward. Prototype, evaluate, refine, and keep improving.
+
+**2. How do I approach developing programs?** <br>
+* I approach developing programs by breaking big ideas down into smaller, manageable pieces and then building them up step by step. Working on my 3D scene really reinforced that mindset. I learned to think more intentionally about structure before jumping into code. Spatial thinking became a big part of my process. I had to constantly keep track of where objects were in relation to each other, what plane they were sitting on, and how they would visually interact. That translated directly into how I think about organizing code, because even one small mistake, like a misplaced coordinate, could throw everything off. It made me more careful and more aware of how individual parts connect to the whole system.
+Iteration is also a huge part of how I develop programs. I do not expect things to work perfectly the first time. I build something, evaluate it, figure out what feels off, and then adjust. This experience taught me that good development is not just about adding features, but also about knowing when to simplify. Sometimes simplifying something makes the final product stronger.
+a
+**3. How can computer science help me in reaching my goals?** <br>
+* When I signed up for this class, I expected to just learn how to build 3D objects. I do not plan on pursuing a career in graphics, but I am glad I took it because it strengthened how I approach problems. It taught me to take something complex and break it down into smaller, manageable components, then build it step by step with a clear structure in mind.
+Working with rendering and spatial logic also made me more precise. Small mistakes in positioning, lighting, or scaling had immediate visual consequences, which pushed me to be more detail oriented and intentional with my code. I became more aware of how individual pieces connect within a larger system.
+I started to genuinely enjoy iterating when something did not look right and figuring out how to improve it. I also learned how to step back and simplify instead of forcing a solution that was not working. Those skills go far beyond graphics and will help me approach future computer science projects with more structure, clarity, and confidence.
